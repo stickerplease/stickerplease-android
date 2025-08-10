@@ -1,0 +1,2 @@
+# stickerplease-android
+Android gitignore
